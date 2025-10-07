@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc72aab8-c43b-4876-afd3-09248eac69ef" name="Changes" comment="labwork 2 begining">
+      <change beforePath="$PROJECT_DIR$/labwork_2/tracking_simple_object.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/labwork_2/tracking_simple_object.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PailBoy&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PailBoy/TP_image_video.git&quot;,
+    &quot;accountId&quot;: &quot;58cf2567-74e6-4747-b33f-1c0d9ddf5587&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="33NEgXb3rZU2XkL2pFMO633m4hQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/labwork_1" />
+      <recent name="$PROJECT_DIR$/HOG_computation/train" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.28293.52" />
+        <option value="bundled-python-sdk-c84de207d46e-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.28293.52" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc72aab8-c43b-4876-afd3-09248eac69ef" name="Changes" comment="" />
+      <created>1759149240855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1759149240855</updated>
+      <workItem from="1759149241868" duration="163000" />
+      <workItem from="1759149407746" duration="380000" />
+      <workItem from="1759149808291" duration="2411000" />
+      <workItem from="1759212277687" duration="19000" />
+      <workItem from="1759232298625" duration="12672000" />
+      <workItem from="1759742497639" duration="14000" />
+      <workItem from="1759751648287" duration="5040000" />
+      <workItem from="1759782602492" duration="2994000" />
+      <workItem from="1759817319711" duration="2527000" />
+    </task>
+    <task id="LOCAL-00001" summary="TP1">
+      <option name="closed" value="true" />
+      <created>1759149499412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1759149499412</updated>
+    </task>
+    <task id="LOCAL-00002" summary="TP1">
+      <option name="closed" value="true" />
+      <created>1759149741366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1759149741366</updated>
+    </task>
+    <task id="LOCAL-00003" summary="TP1">
+      <option name="closed" value="true" />
+      <created>1759149970308</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1759149970309</updated>
+    </task>
+    <task id="LOCAL-00004" summary="TP1">
+      <option name="closed" value="true" />
+      <created>1759150033918</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1759150033918</updated>
+    </task>
+    <task id="LOCAL-00005" summary="TP1">
+      <option name="closed" value="true" />
+      <created>1759151349600</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1759151349600</updated>
+    </task>
+    <task id="LOCAL-00006" summary="TP1 HOG computation">
+      <option name="closed" value="true" />
+      <created>1759240563706</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1759240563706</updated>
+    </task>
+    <task id="LOCAL-00007" summary="TP1 HOG computation">
+      <option name="closed" value="true" />
+      <created>1759757838871</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1759757838871</updated>
+    </task>
+    <task id="LOCAL-00008" summary="TP1 HOG computation">
+      <option name="closed" value="true" />
+      <created>1759817588458</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1759817588458</updated>
+    </task>
+    <task id="LOCAL-00009" summary="labwork 2 begining">
+      <option name="closed" value="true" />
+      <created>1759818068149</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1759818068149</updated>
+    </task>
+    <task id="LOCAL-00010" summary="labwork 2 begining">
+      <option name="closed" value="true" />
+      <created>1759818085280</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1759818085280</updated>
+    </task>
+    <task id="LOCAL-00011" summary="labwork 2 begining">
+      <option name="closed" value="true" />
+      <created>1759818164269</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1759818164269</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="TP1" />
+    <MESSAGE value="TP1 HOG computation" />
+    <MESSAGE value="labwork 2 begining" />
+    <option name="LAST_COMMIT_MESSAGE" value="labwork 2 begining" />
+  </component>
+</project>
