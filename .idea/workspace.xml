@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc72aab8-c43b-4876-afd3-09248eac69ef" name="Changes" comment="labwork 2 begining">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labwork_2/tracking_simple_object.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/labwork_2/tracking_simple_object.ipynb" afterDir="false" />
     </list>
@@ -91,7 +90,7 @@
       <workItem from="1759817319711" duration="4480000" />
       <workItem from="1759821831637" duration="105000" />
       <workItem from="1759821952184" duration="253000" />
-      <workItem from="1759822218936" duration="2353000" />
+      <workItem from="1759822218936" duration="6556000" />
     </task>
     <task id="LOCAL-00001" summary="TP1">
       <option name="closed" value="true" />
@@ -197,7 +196,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759820346601</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="labwork 2 begining">
+      <option name="closed" value="true" />
+      <created>1759826029494</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1759826029494</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
